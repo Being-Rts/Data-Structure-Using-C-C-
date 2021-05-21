@@ -1,0 +1,9 @@
+STRING
+1. ASCII Codes/ Character Set - For english language defined by ANSI
+   UNICODES- 2 Byte(16 Bits)
+2. Character array -    char X[5]={'A','B','C','D','E'}
+3. STRING -             ends on '\0' or end delimiter char X[5]={'A','B','C','D','\0'}
+Method of Creating STRING
+char X[5]={'A','B','C','D','\0'}
+char name[]={'R','A','M','\0'}
+char name[]="john";
